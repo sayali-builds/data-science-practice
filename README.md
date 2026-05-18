@@ -22,6 +22,7 @@ SciPy
 Jupyter Notebook
 
 📖 Topics Covered
+
 ✔️ Measures of Central Tendency
 
 🔹 Mean
@@ -32,6 +33,7 @@ Middle value of sorted data.
 
 🔹 Mode
 Most frequently occurring value in the dataset.
+
 ✔️ Measures of Dispersion
 
 🔹 Range
@@ -45,7 +47,9 @@ Represents how dispersed the data points are around the mean.
 
 📊 Hypothesis Testing
 This project demonstrates important hypothesis testing concepts used in statistical analysis and machine learning.
+
 ✔️ Concepts Included
+
 Null Hypothesis (H₀)
 Alternate Hypothesis (H₁)
 Level of Significance
@@ -57,7 +61,9 @@ Statistical Decision Making
 
 📉 Parametric Statistical Tests
 The project also covers statistical tests commonly used for normally distributed data.
+
 ✔️ Tests Implemented
+
 Z-Test
 T-Test
 ANOVA
@@ -65,7 +71,9 @@ Chi-Square Test
 
 🧪 One Sample T-Test Implementation
 A practical implementation of One Sample T-Test is included to understand how hypothesis testing works using Python.
+
 ✔️ Steps Performed
+
 Defining hypotheses
 Selecting significance level
 Calculating P-Value
@@ -73,9 +81,11 @@ Comparing results
 Making statistical conclusions
 
 📂 Project Structure
-├── Statistics_Implementation.ipynb
-├── Hypothesis_Implementation.ipynb
-└── README.md
+ Statistics_Implementation.ipynb
+ 
+ Hypothesis_Implementation.ipynb
+ 
+ README.md
 
 🚀 How to Run the Project
 
@@ -106,10 +116,15 @@ Real-world Data Science applications
 🌟 Features
 
 ✨ Beginner-Friendly Explanations
+
 ✨ Practical Python Implementations
+
 ✨ Statistical Analysis Examples
+
 ✨ Hypothesis Testing Demonstrations
+
 ✨ Clean & Readable Code
+
 ✨ Jupyter Notebook Based Learning
 
 🔮 Future Improvements
