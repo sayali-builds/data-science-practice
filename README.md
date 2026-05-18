@@ -23,17 +23,23 @@ Jupyter Notebook
 
 📖 Topics Covered
 ✔️ Measures of Central Tendency
+
 🔹 Mean
 Average value of the dataset.
+
 🔹 Median
 Middle value of sorted data.
+
 🔹 Mode
 Most frequently occurring value in the dataset.
 ✔️ Measures of Dispersion
+
 🔹 Range
 Difference between maximum and minimum values.
+
 🔹 Variance
 Measures the spread of data from the mean.
+
 🔹 Standard Deviation
 Represents how dispersed the data points are around the mean.
 
@@ -72,16 +78,20 @@ Making statistical conclusions
 └── README.md
 
 🚀 How to Run the Project
+
 🔹 Clone the Repository
 git clone <your-repository-link>
+
 🔹 Install Required Libraries
 pip install numpy scipy jupyter
+
 🔹 Open Jupyter Notebook
 jupyter notebook
+
 🔹 Run the Notebook Files
 Open:
-Statistics_Implementation.ipynb
-Hypothesis_Testing_Implementation.ipynb
+Statistics_implementation.ipynb
+Hypothesis_implementation.ipynb
 Run all cells to view outputs and implementations.
 
 🎯 Learning Outcomes
@@ -94,6 +104,7 @@ Statistical testing methods
 Real-world Data Science applications
 
 🌟 Features
+
 ✨ Beginner-Friendly Explanations
 ✨ Practical Python Implementations
 ✨ Statistical Analysis Examples
